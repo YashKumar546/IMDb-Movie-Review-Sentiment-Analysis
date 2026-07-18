@@ -1,5 +1,15 @@
 # 🎬 IMDb Movie Review Sentiment Analysis using Machine Learning
 
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikitlearn)
+![NLP](https://img.shields.io/badge/NLP-Sentiment%20Analysis-2ECC71?style=for-the-badge)
+![TF-IDF](https://img.shields.io/badge/TF--IDF-Feature%20Extraction-8E44AD?style=for-the-badge)
+![Logistic Regression](https://img.shields.io/badge/Model-Logistic%20Regression-E74C3C?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+# 🎬 IMDb Movie Review Sentiment Analysis using Machine Learning
+
 A Machine Learning project that classifies IMDb movie reviews as **Positive** or **Negative** using **Natural Language Processing (NLP)**, **TF-IDF Vectorization**, and **Logistic Regression**.
 
 ---
